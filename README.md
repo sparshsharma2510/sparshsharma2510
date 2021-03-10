@@ -16,9 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sparsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sparsh sharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sparsh_2510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sparsh_2510" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Sparsh2510?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sparsh sharma" height="30" width="40" /></a>
 <a href="https://www.facebook.com/arsh.sharma.3158/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sparsh sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/sparsh_sharma2510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sparsh_sharma2510" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sparsh_2510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sparsh_2510" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
