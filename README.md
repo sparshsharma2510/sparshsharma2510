@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js**
+- 💬 Ask me about **Java, JavaScript, Node.js, Express.js**
 
 - 📫 How to reach me **sparsh.sharma2510@gmail.com**
 
-- ⚡ Fun fact **My recorded voice sounds strange to me**
+- ⚡ Fun fact **My recorded voice sounds strange to me😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshsharma2510&show_icons=true&locale=en&layout=compact" alt="sparshsharma2510" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sparshsharma2510&show_icons=true&locale=en" alt="sparshsharma2510" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sparshsharma2510&show_icons=true&locale=en" alt="sparshsharma2510" /></p>
