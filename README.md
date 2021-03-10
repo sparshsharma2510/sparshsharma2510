@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sparsh.sharma2510@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1u2RMyhmXUwutVcwSte1RWGhUN6Xr-vLw/view?usp=drivesdk](https://drive.google.com/file/d/1u2RMyhmXUwutVcwSte1RWGhUN6Xr-vLw/view?usp=drivesdk)
-
 - ⚡ Fun fact **My recorded voice sounds strange to me😂**
 
 <h3 align="left">Connect with me:</h3>
