@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
-<h3 align="center">A passionate full stack developer and a Java programmer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshsharma2510&label=Profile%20views&color=0e75b6&style=flat" alt="sparshsharma2510" /> </p>
+<h3 align="center">A passionate full stack developer and a Java programmer</h3>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -11,7 +9,7 @@
 
 - ⚡ Fun fact **My recorded voice sounds strange to me😂**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sparsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sparsh sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparsh_2510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sparsh_2510" height="30" width="40" /></a>
