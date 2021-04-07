@@ -7,7 +7,7 @@
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
-- ⚒ Currently working on **GetGo, A full stack web application for tour and travels** 
+- ⚒ Currently working on **GetGo, A full stack web application for tours and travels** 
 
 - ⚡ Fun fact **My recorded voice sounds strange to me😂**
 
