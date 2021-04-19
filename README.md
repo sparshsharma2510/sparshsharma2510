@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **My recorded voice sounds strange to me😂**
 
-<h3 align="left">My Profiles:</h3>
+<h3 align="left">Find me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sparsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sparsh sharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sparsh_2510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sparsh_2510" height="30" width="40" /></a>
