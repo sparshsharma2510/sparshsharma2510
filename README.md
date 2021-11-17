@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
-<h3 align="center">A passionate Problem solver & Web developer</h3>
+<h3 align="center">A passionate Problem solver and a Frontend developer</h3>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -7,16 +7,19 @@
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
-- ⚒ Currently working on **GetGo, A full stack web application for tours and travels(UI design)** 
+- ⚒ Currently working on **Musixverse, An NFT marketplace for musicians and artists** 
 
-- ⚡ Fun fact **My recorded voice sounds strange to me😂**
+- ⚡ Fun fact: **My recorded voice sounds strange to me😂**
+
+- 🏆 Recent Achievement: **Winners of *hackCBS4.0*, India's largest student run hackathon.** <a href="https://hackcbs4.hackerearth.com/">Check it here</a>
 
 <h3 align="left">Find me at:</h3>
 <p align="left">
- <a href="https://www.leetcode.com/sparsh_2510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sparsh_2510" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/sparshsharma2510/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sparsh_2510" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sparsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sparsh sharma" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/Sparsh2510?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sparsh sharma" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/sparsharma" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.leetcode.com/sparsh_2510" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> 
+<a href="https://auth.geeksforgeeks.org/user/sparshsharma2510/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/sparsh_2510" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/Sparsh2510?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +34,6 @@
 <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshsharma2510&show_icons=true&locale=en&layout=compact" alt="sparshsharma2510" />
-
-&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sparshsharma2510&show_icons=true&locale=en" alt="sparshsharma2510" /></p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshsharma2510&show_icons=true&locale=en&layout=compact" alt="sparshsharma2510" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sparshsharma2510&show_icons=true&locale=en" alt="sparshsharma2510" /></p>
