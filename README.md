@@ -7,11 +7,11 @@
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
-- ⚒ Currently working on **Musixverse, An NFT marketplace for musicians and artists** 
+- ⚒ Currently working on **Musomatic, An NFT marketplace for musicians and artists** 
 
 - ⚡ Fun fact: **My recorded voice sounds strange to me😂**
 
-- 🏆 Recent Achievement: **Winners of *hackCBS4.0*, India's largest student run hackathon.** <a href="https://hackcbs4.hackerearth.com/">Check it here</a>
+<!-- - 🏆 Recent Achievement: **Winners of *hackCBS4.0*, India's largest student run hackathon.** <a href="https://hackcbs4.hackerearth.com/">Check it here</a> -->
 
 <h3 align="left">Find me at:</h3>
 <p align="left">
