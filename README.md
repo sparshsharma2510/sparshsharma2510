@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
 <h3 align="center">Frontend developer | Problem solver | Lifelong learner</h3>
 
+<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="370"></p>
+
+
 - 🌱 I’m currently learning **Next.js, Tailwind CSS**
 
-- 💬 Ask me about **Data Structures and Algorithms**
+- 💬 Ask me about **CSS, Reactjs, Data Structures and Algorithms**
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
