@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
-<h3 align="center">A passionate Problem solver and a Frontend developer</h3>
+<h3 align="center">Frontend developer | Problem solver | Lifelong learner</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js, Tailwind CSS**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
-- ⚒ Currently working on **Musomatic, An NFT marketplace for musicians and artists** 
+- ⚒ Currently working on **<a href="https://musomatic.vercel.app">Musomatic</a>, An NFT marketplace for musicians and artists** 
 
 - ⚡ Fun fact: **My recorded voice sounds strange to me😂**
 
-<!-- - 🏆 Recent Achievement: **Winners of *hackCBS4.0*, India's largest student run hackathon.** <a href="https://hackcbs4.hackerearth.com/">Check it here</a> -->
+<h3>🏆 Recent Achievements:</h3>
+<ul>
+
+ <li> <strong>Winners of <em>hackCBS4.0</em>, India's largest student run hackathon.</strong> <a href="https://hackcbs4.hackerearth.com/">Check it here</a></li>
+<li> <strong>Winners under <em>BUIDL IT</em>, India's largest Web3 hackathon by Polygon Technologies.</strong> <a href="https://devfolio.co/submissions/musomatic-cf6f">Check it here</a></li>
+ 
+</ul>
 
 <h3 align="left">Find me at:</h3>
 <p align="left">
@@ -22,7 +28,7 @@
 <a href="https://www.hackerrank.com/Sparsh2510?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech that I use:</h3>
 <p align="left">
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src= "https://img.shields.io/badge/-NodeJs-9DFC03?logo=node.js&logoColor=white&color=green&style=for-the-badge"/>
