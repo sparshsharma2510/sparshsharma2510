@@ -4,7 +4,7 @@
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="370"></p>
 
 
-- 🌱 I’m currently learning **Next.js, Tailwind CSS**
+- 🌱 I’m currently learning **Solidity, Next.js, Tailwind CSS**
 
 - 💬 Ask me about **CSS, Reactjs, Data Structures and Algorithms**
 
@@ -31,7 +31,7 @@
 <a href="https://www.hackerrank.com/Sparsh2510?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Tech that I use:</h3>
+<h3 align="left">Tech that I know:</h3>
 <p align="left">
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src= "https://img.shields.io/badge/-NodeJs-9DFC03?logo=node.js&logoColor=white&color=green&style=for-the-badge"/>
@@ -45,4 +45,4 @@
 </p>
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshsharma2510&show_icons=true&locale=en&layout=compact" alt="sparshsharma2510" />
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=sparshsharma2510&show_icons=true&locale=en" alt="sparshsharma2510" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sparshsharma2510&show_icons=true&locale=en" alt="sparshsharma2510" /></p>
