@@ -44,5 +44,6 @@
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshsharma2510&show_icons=true&locale=en&layout=compact" alt="sparshsharma2510" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sparshsharma2510&show_icons=true&locale=en" alt="sparshsharma2510" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshsharma2510&show_icons=true&locale=en&layout=compact" alt="sparshsharma2510" />
+ <br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sparshsharma2510&show_icons=true&locale=en" alt="sparshsharma2510" /></p>
