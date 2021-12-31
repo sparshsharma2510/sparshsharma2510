@@ -16,9 +16,8 @@
 
 <h3>🏆 Recent Achievements:</h3>
 <ul>
-
+ <li> <strong>Won Best NFT & Gaming Track under <em>BUIDL IT</em>, India's largest Web3 hackathon by Polygon Technologies.</strong> <a href="https://devfolio.co/submissions/musomatic-cf6f">Check it here</a></li>
  <li> <strong>Winners of <em>hackCBS4.0</em>, India's largest student run hackathon.</strong> <a href="https://hackcbs4.hackerearth.com/">Check it here</a></li>
-<li> <strong>Winners under <em>BUIDL IT</em>, India's largest Web3 hackathon by Polygon Technologies.</strong> <a href="https://devfolio.co/submissions/musomatic-cf6f">Check it here</a></li>
  
 </ul>
 
