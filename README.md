@@ -10,7 +10,7 @@
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
-- ⚒ Currently working on **<a href="https://musomatic.vercel.app">Musomatic</a>, An NFT marketplace for musicians and artists** 
+- ⚒ Currently working on **<a href="https://musomatic.vercel.app">Musixverse</a>, An NFT marketplace for musicians and artists** 
 
 - ⚡ Fun fact: **My recorded voice sounds strange to me😂**
 
