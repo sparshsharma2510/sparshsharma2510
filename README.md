@@ -4,7 +4,7 @@
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="370"></p>
 
 
-- 🌱 I’m currently learning **Solidity, Next.js, Tailwind CSS**
+- 🌱 I’m currently learning **Solidity, Next.js**
 
 - 💬 Ask me about **CSS, Reactjs, Data Structures and Algorithms**
 
