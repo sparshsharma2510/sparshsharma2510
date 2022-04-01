@@ -4,13 +4,13 @@
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="370"></p>
 
 
-- 🌱 I’m currently learning **Solidity, Next.js**
+- 🌱 I’m currently exploring **Solidity, Ethers.JS**
 
 - 💬 Ask me about **CSS, Reactjs, Data Structures and Algorithms**
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
-- ⚒ Currently working on **<a href="https://musomatic.vercel.app">Musixverse</a>, An NFT marketplace for musicians and artists** 
+- ⚒ Currently working on **<a href="https://www.musixverse.com">Musixverse</a>, An NFT marketplace for musicians and artists** 
 
 - ⚡ Fun fact: **My recorded voice sounds strange to me😂**
 
