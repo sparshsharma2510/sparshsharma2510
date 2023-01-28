@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently exploring **Solidity, Ethers.JS**
 
-- 💬 Ask me about **CSS, Reactjs, Data Structures and Algorithms**
+- 💬 Ask me about **CSS, JavaScript, TypeScript, Angular, Reactjs, NextJS, Data Structures and Algorithms**
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
@@ -16,6 +16,8 @@
 
 <h3>🏆 Recent Achievements:</h3>
 <ul>
+  <li><strong>Second runner up @<em>SheBuilds'22</em></strong></li>
+  <li><strong>Won StackOS pool prize under <em>ETHIndia'22</em>, World's largest Ethereum hackathon.</strong></li>
  <li> <strong>Won Best NFT & Gaming Track under <em>BUIDL IT</em>, India's largest Web3 hackathon by Polygon Technologies.</strong> <a href="https://devfolio.co/submissions/musomatic-cf6f">Check it here</a></li>
  <li> <strong>Winners of <em>hackCBS4.0</em>, India's largest student run hackathon.</strong> <a href="https://hackcbs4.hackerearth.com/">Check it here</a></li>
  
@@ -30,7 +32,7 @@
 <a href="https://www.hackerrank.com/Sparsh2510?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Tech that I know:</h3>
+<h3 align="left">Tech that I use:</h3>
 <p align="left">
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src= "https://img.shields.io/badge/-NodeJs-9DFC03?logo=node.js&logoColor=white&color=green&style=for-the-badge"/>
