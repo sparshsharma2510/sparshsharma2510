@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sparsh Sharma</h1>
-<h3 align="center">Frontend developer | Problem solver | Lifelong learner</h3>
+<h3 align="center">Full-Stack developer | AI Researcher </h3>
 
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500" height="370"></p>
 
 
-- 🌱 I’m currently exploring **Solidity, Ethers.JS**
+- 🌱 I’m currently exploring **PyTorch, Speech Processing**
 
-- 💬 Ask me about **CSS, JavaScript, TypeScript, Angular, Reactjs, NextJS, Data Structures and Algorithms**
+- 💬 Ask me about **CSS, Reactjs, NextJS, Data Structures and Algorithms**
 
 - 📫 Email **sparsh.sharma2510@gmail.com**
 
-- ⚒ Currently working on **<a href="https://www.musixverse.com">Musixverse</a>, An NFT marketplace for musicians and artists** 
-
-- ⚡ Fun fact: **My recorded voice sounds strange to me😂**
+- ⚒ Currently working on **SUKOON** 
 
 <h3>🏆 Recent Achievements:</h3>
 <ul>
+  <li><strong>Won most pyrrhic hack @<em>Curtin University'25</em></strong></li>
   <li><strong>Second runner up @<em>SheBuilds'22</em></strong></li>
   <li><strong>Won StackOS pool prize under <em>ETHIndia'22</em>, World's largest Ethereum hackathon.</strong></li>
  <li> <strong>Won Best NFT & Gaming Track under <em>BUIDL IT</em>, India's largest Web3 hackathon by Polygon Technologies.</strong> <a href="https://devfolio.co/submissions/musomatic-cf6f">Check it here</a></li>
